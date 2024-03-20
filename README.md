@@ -12,5 +12,6 @@ Screenshot: Wi-Fi security settings.
 
 
 3. Exploring macOS Security Features
+
 Investigate FileVault, Gatekeeper, and Privacy settings in macOS System Preferences.
 Screenshot: Each of these security settings.
