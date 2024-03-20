@@ -11,6 +11,6 @@ Review the Wi-Fi security settings in the modem's admin panel to ensure it’s u
 Screenshot: Wi-Fi security settings.
 
 
-3.Exploring macOS Security Features
+3. Exploring macOS Security Features
 Investigate FileVault, Gatekeeper, and Privacy settings in macOS System Preferences.
 Screenshot: Each of these security settings.
